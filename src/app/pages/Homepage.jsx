@@ -1,7 +1,7 @@
 import React from "react";
 import "./homepage.css"; // Your custom CSS
 import '@fortawesome/fontawesome-free/css/all.min.css';
-import '@fontsource/roboto'; // Replace "roboto" with your desired font
+// import '@fontsource/roboto'; // Replace "roboto" with your desired font
 
 
 const LandingPage = () => {
